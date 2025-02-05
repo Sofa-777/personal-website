@@ -1,8 +1,11 @@
 body{
     text-align: center;
-    font-family:'Arial';
-    background:lightskyblue;
-    color:darkblue;
+    font-family:'Comic Sans';
+    background-image: url('Don\'t\ shoot\ he\'s\ black\(and\ a\ cat\).JPG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+    color:white;
 }
 img{
     width: 200px;
